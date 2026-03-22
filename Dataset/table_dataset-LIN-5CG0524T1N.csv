@@ -1,0 +1,6 @@
+" dataset for table optimization with 15,000 records and it inclues the following features:"
+TableID: T01 to T20
+"Capacity: 2, 4, 6, or 8"
+"Location: Window Left, Window Right, Center, Corner Back, Patio, Balcony, Garden View, Bar Area"
+"Status: Available, Occupied, Cleaning, Reserved"
+LastUsedTime: Timestamp when the table was last vacated
